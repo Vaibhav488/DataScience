@@ -1,5 +1,4 @@
 # DataScience
-I have listed all the projects and major learning during studying M.S Business Analytics at The University of Texas at Dallas
 
 About Project:
 
