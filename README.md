@@ -1,4 +1,4 @@
-# DataScience Machine Learning Project in R
+# DataScience: Machine Learning Project in R
 
 About Project:
 
