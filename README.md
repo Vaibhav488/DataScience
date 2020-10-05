@@ -2,5 +2,3 @@
 
 I have listed all my academic projects. 
  <br>
- 
- `Contents`
